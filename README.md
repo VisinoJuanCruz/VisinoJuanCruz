@@ -58,7 +58,7 @@ Here are some of the tools and technologies I use regularly:
 ### 📫 Let's Connect
 - 💼 [LinkedIn](#)  
 - 🌐 [Portfolio](#)  
-- 📧 **Email:** [Tu Email]  
+- 📧 **Email:** visinodeveloper@gmail.com
 
 ---
 
